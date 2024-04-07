@@ -5,13 +5,12 @@
   ในวีคที่ 1 ได้ทำความรู้จัก และแนะนำอุปกรณ์ที่ใช้ จากนั้นตั้งเป้าหมายการเรียนขอคลาสนี้<br>
 <h4>อุปกรณ์ที่ใช้</h4> 
  1. Firewall fortigate 60e<br>
-  ![image1](https://github.com/SuchananEve/xIOps2024/blob/main/assets/126707693/cd5addf3-0d13-4607-a3ef-a7a7e4af111e.jpg)
+  ![image1](https://www.tbpgroup.com/wp-content/uploads/2018/05/fortigate-60e-500x400.png)
 <br>
  2. Switch fortiswitch 424d<br>
-  ![image2](https://github.com/SuchananEve/xIOps2024/assets/126707693/ff9c24a7-4925-4b22-8d65-58b226438892)
+  ![image2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTompu6RwrKsU3m4J4hIbkRE2iflCdztWwMmL4EXm6T&s)
 <br>
  4. Server dell r330<br>
-  <br>
   
 <h4>การ Config อุปกรณ์</h4>
 ![IMG_6579](https://github.com/SuchananEve/xIOps2024/assets/126707693/509eb4df-943f-47f4-895f-4223bed4d8e8)
