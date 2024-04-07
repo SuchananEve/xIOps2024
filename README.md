@@ -14,4 +14,4 @@
 
 
 
-[pic1]: (https://www.borntodev.com/wp-content/uploads/2018/09/Black_Yellow_white-1.png)
+[pic1]: ([https://www.borntodev.com/wp-content/uploads/2018/09/Black_Yellow_white-1.png](https://www.tbpgroup.com/wp-content/uploads/2018/05/fortigate-60e-500x400.png))
